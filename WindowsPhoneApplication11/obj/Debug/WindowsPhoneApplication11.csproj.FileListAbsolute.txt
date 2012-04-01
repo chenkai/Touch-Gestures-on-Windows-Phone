@@ -1,0 +1,42 @@
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\ApplicationIcon.png
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\Background.png
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\sample.jpg
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\WindowsPhoneApplication11.dll
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\WindowsPhoneApplication11.pdb
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\AppManifest.xaml
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\WindowsPhoneApplication11.xap
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\ResolveAssemblyReference.cache
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\App.g.i.cs
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\MainPage.g.i.cs
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\WindowsPhoneApplication11.g.resources
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\WindowsPhoneApplication11.dll
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\WindowsPhoneApplication11.pdb
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\XapCacheFile.xml
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\BasicPage.g.i.cs
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\BetterPage.g.i.cs
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\OkPage.g.i.cs
+c:\users\frenk\documents\visual studio 2010\Projects\WindowsPhoneApplication11\WindowsPhoneApplication11\obj\Debug\BellsPage.g.i.cs
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\ApplicationIcon.png
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\Background.png
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\sample.jpg
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\WindowsPhoneApplication11.dll
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\WindowsPhoneApplication11.pdb
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\AppManifest.xaml
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\WindowsPhoneApplication11.xap
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\App.g.i.cs
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\BasicPage.g.i.cs
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\BetterPage.g.i.cs
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\MainPage.g.i.cs
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\OkPage.g.i.cs
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\BellsPage.g.i.cs
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\WindowsPhoneApplication11.g.resources
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\WindowsPhoneApplication11.dll
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\WindowsPhoneApplication11.pdb
+F:\Personal Open Souce Demo\公共库\缩放处理\PinchZoom\PinchZoom\WindowsPhoneApplication11\obj\Debug\XapCacheFile.xml
